@@ -29,4 +29,4 @@
 8. Spark [слайды](https://github.com/hyberjava/mapreduce_slides/tree/master/08.Spark) / [видео](https://cloud.mail.ru/public/FPwJ/dXC2BjfSz "видео")
 
 
-9. Yarn, MapReduce2[слайды](https://github.com/hyberjava/mapreduce_slides/tree/master/09.Yarn_mr2) / [видео](https://cloud.mail.ru/public/JBwW/nsU1fsrQq "видео")
+9. Yarn, MapReduce2 [слайды](https://github.com/hyberjava/mapreduce_slides/tree/master/09.Yarn_mr2) / [видео](https://cloud.mail.ru/public/JBwW/nsU1fsrQq "видео")
