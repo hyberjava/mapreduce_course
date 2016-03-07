@@ -1,4 +1,4 @@
-# mapreduce_slides
+# MapReduce
 
 Курс:
 
@@ -30,3 +30,8 @@
 
 
 9. Yarn, MapReduce2 [слайды](https://github.com/hyberjava/mapreduce_slides/tree/master/09.Yarn_mr2) / [видео](https://cloud.mail.ru/public/JBwW/nsU1fsrQq "видео")
+
+
+Создатель [Mail.ru Group](https://stepic.org/users/1382921)
+Преподаватель: Евгений Чернов, руководитель отдела анализа запросов в Поиск@Mail.ru, преподаватель Техносферы (проект МГУ и Mail.ru)
+Лицензиня: [Лицензия Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/), «Атрибуция — На тех же условиях» 4.0 Всемирная (CC BY-SA 4.0)
