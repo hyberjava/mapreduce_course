@@ -14,7 +14,7 @@
 3. MapReduce [слайды](https://github.com/hyberjava/mapreduce_slides/tree/master/03.map_reduce) / [видео](https://cloud.mail.ru/public/M8Nq/Fdd7aHePP "видео")
 
 
-4. TF-IDF [слайды](https://github.com/hyberjava/mapreduce_slides/tree/master/04.tf_idf) / [видео](https://cloud.mail.ru/public/2Tg7/Rf177Z2HP "видео")
+4. TF-IDF(решение задач с помощью mr) [слайды](https://github.com/hyberjava/mapreduce_slides/tree/master/04.tf_idf) / [видео](https://cloud.mail.ru/public/2Tg7/Rf177Z2HP "видео")
 
 
 5. Graph [слайды](https://github.com/hyberjava/mapreduce_slides/tree/master/05.graph) / [видео](https://cloud.mail.ru/public/KUPK/cue34Xqum "видео")
